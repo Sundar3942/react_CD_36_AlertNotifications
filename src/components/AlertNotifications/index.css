@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.alert-notifications-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding-top: 30px;
+}
+.success {
+  color: #2dca73;
+}
+.error {
+  color: #ff0b37;
+}
+.warning {
+  color: #ffb800;
+}
+.info {
+  color: #0f81e0;
+}
+.card-title {
+  margin: 0;
+}
